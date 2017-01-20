@@ -1,0 +1,48 @@
+[
+    "00-cover.md",
+    "01-index.md",
+    [
+        "02-summary-00.md",
+        "02-summary-01.md",
+        "02-summary-02.md",
+        "02-summary-03.md",
+        "02-summary-04.md",
+        "02-summary-05.md",
+        "02-summary-06.md"
+    ], [
+        "03-content-types-00.md",
+        "03-content-types-01.md",
+        "03-content-types-02.md",
+        "03-content-types-03.md",
+        "03-content-types-04.md",
+        "03-content-types-05.md",
+        "03-content-types-06.md",
+        "03-content-types-07.md",
+        "03-content-types-08.md",
+        "03-content-types-09.md"
+    ], [
+        "04-plugins-00.md",
+        "04-plugins-01.md",
+        "04-plugins-02.md",
+        "04-plugins-03.md",
+        "04-plugins-04.md",
+        "04-plugins-05.md",
+        "04-plugins-06.md",
+        "04-plugins-07.md",
+        "04-plugins-08.md",
+        "04-plugins-09.md",
+        "04-plugins-10.md",
+        "04-plugins-11.md",
+        "04-plugins-12.md",
+        "04-plugins-13.md",
+        "04-plugins-14.md",
+        "04-plugins-15.md",
+        "04-plugins-16.md",
+        "04-plugins-17.md",
+        "04-plugins-18.md",
+        "04-plugins-19.md",
+        "04-plugins-20.md",
+        "04-plugins-21.md",
+        "04-plugins-22.md"
+    ]
+]
