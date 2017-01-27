@@ -1,0 +1,1 @@
+## Pluginak aktibatu eta konfiguratu
