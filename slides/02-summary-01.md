@@ -1,7 +1,7 @@
 ### Orain arte ikusitakoa
 
 - WordPress jaitsi eta instalatu.
-- Euskaraz jarri.
-- Oinarrizko ezarpenak.
-- Segurtasun neurriak.
-- Itxura aldatu.
+- Oinarrizko ezarpenak eta segurtasun neurriak.
+- Eduki motak.
+- Itxura eta diseinua.
+- Pluginak.

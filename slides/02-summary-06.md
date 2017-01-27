@@ -1,7 +1,6 @@
 ### Orain arte ikusitakoa
-#### Itxura aldatu
+#### Pluginak
 
-- Kalitatezko gai mordoa dago.
-- Ordainpeko aukera ere oso zabala da.
-- Gai bat aukeratu, jaitsi eta nola instalatu.
-- Oinarrizko ezarpenak.
+- WordPressek defektuz dakartzan **aukerak, hobetu edo berriak gehitzeko** dira.
+- Garrantzitsua da **edozein** plugin **ez instalatzea**.
+- **Plugin erabilgarri** batzuk ikusi genituen.

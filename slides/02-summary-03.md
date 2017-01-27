@@ -1,12 +1,9 @@
 ### Orain arte ikusitakoa
-#### Euskaraz jarri
+#### Oinarrizko ezarpenak eta segurtasun neurriak.
 
-- Gure WordPressa euskaraz jartzeko, lehendabizi **hizkuntza fitxategiak jaitsi** behar ditugu.
-- https://eu.wordpress.org/txt-install/ helbidean aurki daitezke fitxategiok.
-- Fitxategiok **wp-content/languages karpetara** kopiatu eta **berrizendatu** behar dira:
-    - wp-dev-eu.mo –> eu.mo
-    - wp-dev-cc-eu.mo –> continents-cities-eu.mo
-    - wp-dev-admin-eu.mo –> admin-eu.mo
-    - wp-dev-admin-network-eu-mo –> admin-network-eu.mo
-- Ezarpen orokorretan guneko hizkuntza **Euskara hautatu**.
+- Orokorra, idazketa, irakurketa, eztabaida, media eta esteka iraunkorrak.
+- Pasahitz eta erabiltzaile-izen **seguruak** erabili.
+- Sistema **eguneratuta** mantendu.
+- *Plugin* eta gaiak **seguruak** direla egiaztatu.
+- Ordenagailua **seguru mantendu** eta sena erabili.
 

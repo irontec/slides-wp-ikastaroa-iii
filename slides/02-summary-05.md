@@ -1,10 +1,6 @@
 ### Orain arte ikusitakoa
-#### Oinarrizko ezarpenak
+#### Itxura eta diseinua.
 
-- Orokorra
-- Idazketa
-- Irakurketa
-- Eztabaida
-- Media
-- Esteka iraunkorrak
-- Akismet
+- **Gai mordoa** eskuragarri.
+- Pertsonalizatzeko aukera.
+- Menu eta *widget*ei esker, informazioa kutxetan erakusteko aukera.

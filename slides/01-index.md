@@ -2,6 +2,5 @@
 ## Laburpena
 
 - Orain arte ikusitakoa
-- Eduki motak
-- Edukiak argitaratu eta antolatu
-- *Plugin*ak
+- Webgunea publiko egin
+- Oinarrizko pluginak konfiguratu
